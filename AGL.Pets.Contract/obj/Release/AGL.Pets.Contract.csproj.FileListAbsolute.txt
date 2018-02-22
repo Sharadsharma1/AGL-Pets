@@ -1,0 +1,5 @@
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\bin\Release\AGL.Pets.Contract.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\bin\Release\AGL.Pets.Contract.pdb
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\obj\Release\AGL.Pets.Contract.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\obj\Release\AGL.Pets.Contract.pdb
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\obj\Release\AGL.Pets.Contract.csprojResolveAssemblyReference.cache

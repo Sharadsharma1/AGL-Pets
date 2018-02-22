@@ -1,0 +1,4 @@
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\bin\Debug\AGL.Pets.Contract.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\bin\Debug\AGL.Pets.Contract.pdb
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\obj\Debug\AGL.Pets.Contract.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Contract\obj\Debug\AGL.Pets.Contract.pdb

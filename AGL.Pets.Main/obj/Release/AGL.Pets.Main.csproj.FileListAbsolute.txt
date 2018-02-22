@@ -1,0 +1,13 @@
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\AGL.Pets.Main.exe.config
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\AGL.Pets.Main.exe
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\AGL.Pets.Main.pdb
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\AGL.Pets.Contract.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\Castle.Core.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\Castle.Windsor.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\Newtonsoft.Json.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\AGL.Pets.Contract.pdb
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\Castle.Windsor.xml
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\bin\Release\Newtonsoft.Json.xml
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\obj\Release\AGL.Pets.Main.csprojResolveAssemblyReference.cache
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\obj\Release\AGL.Pets.Main.exe
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.Main\obj\Release\AGL.Pets.Main.pdb

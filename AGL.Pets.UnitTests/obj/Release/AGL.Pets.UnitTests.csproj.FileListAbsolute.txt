@@ -1,0 +1,17 @@
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\AGL.Pets.UnitTests.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\AGL.Pets.UnitTests.pdb
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\AGL.Pets.Contract.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\AGL.Pets.Main.exe
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\Castle.Core.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\Castle.Windsor.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\Newtonsoft.Json.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\AGL.Pets.Contract.pdb
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\AGL.Pets.Main.pdb
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\Castle.Core.xml
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\Castle.Windsor.xml
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\Newtonsoft.Json.xml
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\obj\Release\AGL.Pets.UnitTests.csprojResolveAssemblyReference.cache
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\obj\Release\AGL.Pets.UnitTests.dll
+C:\My Backup\MyProjects\AGL.Pets\AGL.Pets.UnitTests\obj\Release\AGL.Pets.UnitTests.pdb
